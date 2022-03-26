@@ -65,3 +65,5 @@ Poopster/Library/*/*/*
 Poopster/Library/**/**/**
 Poopster/Library/*/*/*/*
 Poopster/Library/**/**/**/**
+Poopster/Library/PackageCache/com.unity.2d.sprite@1.0.0/*
+Poopster/Library/PackageCache/*
