@@ -57,4 +57,11 @@ sysinfo.txt
 
 # Crashlytics generated file
 crashlytics-build.properties
-
+Poopster/Library/*
+Poopster/Library/*/*
+Poopster/Library/**
+Poopster/Library/**/**
+Poopster/Library/*/*/*
+Poopster/Library/**/**/**
+Poopster/Library/*/*/*/*
+Poopster/Library/**/**/**/**
