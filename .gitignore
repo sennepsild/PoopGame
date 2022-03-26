@@ -59,6 +59,8 @@ sysinfo.txt
 crashlytics-build.properties
 Poopster/Library/
 /Poopster/Library/
+/Poopster/Library/*
+Poopster/Library/*
 Poopster/Library*
 Poopster/Library**
 Poopster/Library/PackageCache*
