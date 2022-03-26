@@ -57,14 +57,5 @@ sysinfo.txt
 
 # Crashlytics generated file
 crashlytics-build.properties
-Poopster/Library/
-/Poopster/Library/
-/Poopster/Library/*
-Poopster/Library/*
-Poopster/Library*
-Poopster/Library**
-Poopster/Library/PackageCache*
-Poopster/Library/PackageCache/com.unity.2d.sprite@1.0.0*
-Poopster/Library/PackageCache/com.unity.2d.sprite@1.0.0/Editor*
-Poopster/Library/PackageCache/com.unity.2d.sprite@1.0.0/Editor/SpriteEditorModule*
-Poopster/Library/PackageCache/com.unity.2d.sprite@1.0.0/Editor/SpriteEditorModule/SpriteFrameModule*
+Poopster/Library
+Poopster/Temp
